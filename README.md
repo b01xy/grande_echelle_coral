@@ -1,7 +1,7 @@
 # Grande Echelle
 
 ### Le film n'est pas dans ce dépôt
-Il est disponible à ????
+Il est disponible à la demande auprès de benjamin ààà labomedia.org
 
 ### Installation
 Testée avec Debian 11 Bullseye
